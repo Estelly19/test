@@ -1,2 +1,2 @@
 # test
-maybe this works
+echo maybe this works
